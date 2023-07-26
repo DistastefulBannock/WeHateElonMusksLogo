@@ -28,7 +28,6 @@
 
             // Make logo normal sized again
             let fkYouElon = document.querySelector("#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > header > div > div > div > div.css-1dbjc4n.r-1habvwh > div.css-1dbjc4n.r-dnmrzs.r-1vvnge1 > h1 > a > div > svg");
-            console.log(fkYouElon);
             if (fkYouElon != null){
                 fkYouElon.removeAttribute("viewBox");
             }
