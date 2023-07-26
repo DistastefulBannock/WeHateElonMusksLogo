@@ -7,3 +7,5 @@ Fuck Elon man, let me browse my furry art in peace >:(
 3. Create a new tampermonkey script by clicking on the tampermonkey extension icon, and then on "Create new script"
 4. Control a + control v the script into the field, then press control s to save
 5. Enjoy twitter without the ugly fucking logo 👍
+
+Join the discord and message distastefulbannock if any bugs come up
