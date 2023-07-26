@@ -8,4 +8,4 @@ Fuck Elon man, let me browse my furry art in peace >:(
 4. Control a + control v the script into the field, then press control s to save
 5. Enjoy twitter without the ugly fucking logo 👍
 
-[Join the discord](https://discord.gg/Jeaxg5AqKw) if you like the script (and message distastefulbannock to report bugs)
+[Join the discord](https://discord.gg/Jeaxg5AqKw) if you like the script, and message distastefulbannock to report bugs (I don't check my git)
